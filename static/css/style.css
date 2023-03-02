@@ -1,0 +1,44 @@
+/* first h1 */
+#firsth1
+{
+    color: darkturquoise;
+    font-weight: bolder;
+}
+.Hilight_link a
+{
+    background-color: red;
+    
+}
+/* .newp
+{
+    background-color: red;
+    color: aqua;
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+} */
+
+#input_save
+{
+    width: 90px;
+    margin: 5px;
+    
+}
+.validity
+{
+    display: none;
+    color: red;
+}
+#higher_expense
+{
+    display: none;
+    font-weight: bold;
+    color:red
+}
+#saving_message
+{
+    display: none;
+    font-weight: bold;
+    color:red
+}

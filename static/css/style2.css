@@ -1,0 +1,104 @@
+body{
+font-family: 'Dongle', sans-serif;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.Hilight_link a
+{
+    background-color: red;
+    
+}
+.newp
+{
+    background-color: red;
+    color: aqua;
+    height: 20px;
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+}
+.tic
+{
+    height: 20px;
+    width: 20px;
+}
+.button
+{
+    width: 200px;
+    height: 45px;
+    background-color: #f496d248;
+}
+.package
+{
+    margin-top: 150px;
+}
+.thirdcol
+{
+    border-radius: 25px;
+    background-color:aquamarine;
+    
+}
+.google
+{
+    height: 40px;
+    width: 140px;
+}
+.apple
+{
+    height:27px;
+    width: 120px;
+}
+.footer
+{
+   padding-top: 50px;
+   padding-right: 170px;
+   padding-bottom: 70px;
+}
+.copyright
+{
+    padding-left: 170px;
+    padding-top: 50px;
+}
+
+    
+@media only screen and (max-width:991px){
+    
+    .package
+    {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width:575px){
+    .buttonc
+    {
+        font-size: 6px;
+        font-weight: 100;
+    }
+    .h1c
+    {
+        font-size: 10px;
+    }
+    .pc
+    {
+        font-size: 8px;
+    }
+    
+}
+@media only screen and (min-width:576px) and (max-width:767px)
+{
+    .h1c
+    {
+        font-size: 14px;
+    }
+    .pc
+    {
+        font-size: 12px;
+    }
+    .buttonc
+    {
+        font-size: 10px;
+        
+    }
+}

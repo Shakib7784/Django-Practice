@@ -1,0 +1,21 @@
+.formerror
+{
+   color: red;
+   
+}
+
+.marq
+{
+   background-color: aqua;
+   font-size: large;
+   font-weight: bolder;
+   margin-top: 10px;
+}
+.marq a
+{
+   color:black ;
+   font-size: large;
+   font-weight: bolder;
+   text-decoration: none;
+
+}
